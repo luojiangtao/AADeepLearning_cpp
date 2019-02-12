@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AADeepLearning", "AADeepLearning.vcxproj", "{EDEB8B31-4AD6-4E44-9538-E352D771310D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Debug|Win32.Build.0 = Debug|Win32
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Debug|x64.ActiveCfg = Debug|x64
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Debug|x64.Build.0 = Debug|x64
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Release|Win32.ActiveCfg = Release|Win32
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Release|Win32.Build.0 = Release|Win32
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Release|x64.ActiveCfg = Release|x64
+		{EDEB8B31-4AD6-4E44-9538-E352D771310D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
