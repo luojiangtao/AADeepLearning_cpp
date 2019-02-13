@@ -1,5 +1,7 @@
 # 使用c++ 开发的 AADeepLearning 深度学习框架
 
+![效果截图](https://raw.githubusercontent.com/luojiangtao/AADeepLearning_cpp/master/1.png)  
+
 ### 版权申明
 
 *   AADeepLearning 开源、免费。
